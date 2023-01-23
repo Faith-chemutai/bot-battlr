@@ -26,3 +26,4 @@ function BotCollection({bots, handleClick, handleDelete}) {
 
 
 export default BotCollection;
+//bot collection
