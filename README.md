@@ -1,17 +1,19 @@
-React Code Challenge: Bot Battlr
+##React Code Challenge: Bot Battlr
 Welcome to Bot Battlr, the one and only spot in the known universe where you can custom build your own Bot Army! This is our app:
 
-Instructions
+##Instructions
 For this project, you’ll be building out a React application that displays a list of available bots, among other features. Try your best to find the right places to insert code into the established code base.
 
 Part of what this code challenge is testing is your ability to follow given instructions. While you will definitely have a significant amount of freedom in how you implement the features, be sure to carefully read the directions for setting up the application.
 
-Setup
-After unbundling the project:
+##Setup
+
+clone this repository to your local environment and open with vscode
 
 Run npm install in your terminal.
-Run 
-npx json-server --watch db.json --port . This will run your backend on port 8002.
+
+Run npx json-server --watch db.json --port 8002. This will run your backend on port 8002.
+
 In a new terminal, run npm start. This will run your React app on port 8000.
 Make sure to open http://localhost:8002/bots in the browser to verify that your backend is working before you proceed!
 
